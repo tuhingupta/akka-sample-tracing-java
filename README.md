@@ -22,3 +22,5 @@ Now you will see in the java project logs that is connects to Zipkin server.
 
 Also read my blog on [Distributed Tracing for Microservices] (http://javaredhot.blogspot.com/2017/02/akka-with-zipkin-async-framework-with.html)
 
+#### LICENSE 
+[Apache License Version 2.0] (https://github.com/tuhingupta/akka-sample-tracing-java/blob/master/LICENSE.txt)
